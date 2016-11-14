@@ -1,0 +1,6 @@
+jumps
+jump
+fake duck
+real duck
+jump
+finish
